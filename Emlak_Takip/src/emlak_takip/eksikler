@@ -1,0 +1,44 @@
+
+
+
++ilan ekleme kısmında sayı kontrolu eklendı eksık alan hatası alınıyor incellenemeli//giderildi
+(hata:text alanlarının içeriniğini kontrol etmeden dolayı kaynaklanıyor. 
+
+
+boş txt bak/// düzeltildi.
+
+ilan düzenlede bulundugu kat bilgisi eksik
+
+alan seşmeden satış kıralama yapılamaaz.///giderildi.
+satış kıralama hatalı///giderildi
+-------------------------------------
+satış kiralamada tarih alanı boş ise hata veriyor. if sorgusuna tabi tutulmalı /// giderildi
+
+-------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
++ java map yapısına bak nedir?python daki dicsinary
+
